@@ -1,0 +1,29 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+**/obj/
+
+# IDE and build artifacts
+*.VC.db
+*.VC.opendb
+*.sdf
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sln.docstates
+*.code-workspace
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Optional local content: this source-focused repository does not redistribute
+# the original Epic sample assets. Remove this rule only after reviewing the
+# Unreal Engine EULA and setting up Git LFS.
+Content/
