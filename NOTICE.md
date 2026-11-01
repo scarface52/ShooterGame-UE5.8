@@ -1,9 +1,7 @@
 # Notice
 
-This is an unofficial compatibility port of Epic Games' [Shooter Game sample](https://www.fab.com/listings/316f0c15-cb37-4580-8670-b0b7c423165a).
+This is an unofficial port of Epic Games' [Shooter Game sample](https://www.fab.com/listings/316f0c15-cb37-4580-8670-b0b7c423165a). It is not affiliated with or endorsed by Epic Games.
 
-The original ShooterGame source code, names, trademarks, and assets are owned by Epic Games, Inc. or their respective owners and are governed by the applicable Unreal Engine license terms. No Epic-owned material is relicensed by this repository, and no endorsement by or affiliation with Epic Games is implied.
+The original code, assets, and names belong to Epic Games, Inc. and are covered by the Unreal Engine End User License Agreement. Nothing in this repository relicenses that material. The original content is intentionally excluded. Review the EULA before redistributing any part of this project.
 
-Before redistributing source or assets, review the current Unreal Engine End User License Agreement and any terms attached to the original sample. The original binary content is intentionally excluded from this source-focused repository.
-
-Port-specific modifications are provided without warranty, subject to any rights and restrictions that apply to the underlying material.
+The changes made for this port are provided as-is, without warranty.
